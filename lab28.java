@@ -14,7 +14,7 @@ class lab28
    {
       double M=0; double D=0;
       int[] work = new int[40];  //рабочий массив 
-      double[] prob = new double[40]; //массив верятностей
+      double[] prob = new double[40]; //массив верятностей. как вариант - можно и без него.
       //try-with-res - автоматически удалит ресурсы при отработке
       try (BufferedReader br = new BufferedReader(new FileReader("file.txt"))) 
       {
