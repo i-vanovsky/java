@@ -51,7 +51,7 @@ class lab35{
       System.out.println("Выберите уровень сложности:\n1 - легкий\n2 - средний\n3 - сложный");
       while(true){   //цикл выбора сложности, чтобы было лишь 3 варианта
          command = keyboard.nextLine();
-         if (command.equals("1")) {diff=1000;break;}
+         if (command.equals("1")) {diff=300;break;}
          if (command.equals("2")) {diff=200;break;}
          if (command.equals("3")) {diff=100;break;}
       }
