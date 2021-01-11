@@ -1,3 +1,11 @@
+//"Создать класс Person с полями: name, surname, age.
+//Имплементировать интерфейс Comparable, используя поля surname и name.
+//Добавить несколько объектов Person в List. Использовать Comparator для различных типов сортировки.
+//Вывести: 
+//1) неотсортированный список, 
+//2) список, отсортированный по name,
+//3) список, отсортированный по surname, 
+//4) список, отсортированный по age"
 //https://stackoverflow.com/questions/45550934/sort-a-list-of-objects-based-on-a-parameterized-attribute-of-the-object
 //https://stackoverflow.com/questions/5805602/how-to-sort-list-of-objects-by-some-property
 //https://stackoverflow.com/questions/11901072/comparing-different-type-of-objects-with-comparable
